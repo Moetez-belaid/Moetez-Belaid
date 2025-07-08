@@ -1,53 +1,66 @@
-<h1 align="center">Hi there 👋, I'm Moetez Belaid</h1>
-<h3 align="center">DevOps Engineer | Embedded Systems Background | Based in Germany 🇩🇪</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5577dd&height=120&section=header&text=Hi%2C%20I%27m%20Moctez%20Bela%C3%AFd!&fontSize=48" alt="header"/>
+</p>
+
+<h3 align="center">🚀 DevOps Engineer | Embedded Systems → Automation & Cloud Specialist</h3>
 
 ---
 
-### 💼 About Me
-
-🎓 Fresh Graduate Engineer with a strong foundation in **Embedded Systems**  
-🚀 Transitioned into **DevOps** to automate, streamline, and optimize software delivery  
-🛠️ Passionate about building scalable CI/CD pipelines and intelligent automation systems  
-💡 Always exploring new technologies and improving development processes
-
----
-
-### 🧰 Tech Stack
-
-- **Languages**: `Python` · `Bash` · `C/C++` · `Java`
-- **DevOps & Automation**: `Docker` · `Kubernetes` · `Jenkins` · `GitHub Actions` · `Ansible`
-- **Cloud & IaC**: `AWS` · `Terraform` · `CI/CD Pipelines`
-- **Monitoring & Observability**: `Prometheus` · `Grafana`
+## 💼 About Me
+- 🎓 Fresh graduate with foundational experience in **Embedded Systems**  
+- 🔁 Now focused on **DevOps**: automation, CI/CD pipelines & deployment workflows  
+- 🧠 Passionate about clean, scalable engineering and continuous improvement  
+- 🌱 Currently diving into **EKS, Helm, Terraform, Prometheus & Grafana**  
 
 ---
 
-### 🚀 Projects
+## 🛠️ Tech Stack
 
-🔹 **The Highway** – A generic, customizable CI/CD pipeline designed to adapt to any software project  
-🔹 **Alerta’Q** – AI-powered driver monitoring system combining **embedded tech**, **computer vision**, and a **mobile dashboard**
-
-> 🧠 Building safe and intelligent systems that empower people and businesses
-
----
-
-### 🌱 Currently Learning
-
-- 📦 Cloud-native DevOps (EKS, Helm, Service Mesh)
-- 🤖 AI in DevOps · Monitoring & Observability
-- ⚙️ Advanced Infrastructure Automation
+| Domain           | Tools & Languages                       |
+|------------------|-----------------------------------------|
+| **Languages**    | Python · Bash · C/C++ · Java            |
+| **Containers & Orchestration** | Docker · Kubernetes             |
+| **CI/CD**        | Jenkins · GitHub Actions · Terraform     |
+| **Cloud & IaC**  | AWS · Terraform                          |
+| **Monitoring & Logs** | Prometheus · Grafana · ELK             |
 
 ---
 
-### 📫 Let's Connect
+## 🚀 Featured Projects
 
-- 💼 [LinkedIn](https://linkedin.com/in/moctez-belaid)
-- 📬 Email: belaid.moetez@gmail.com  
-- 🌐 [GitHub Projects](https://github.com/Moetez-belaid)
+### 🔹 The Highway  
+A reusable CI/CD pipeline template—configurable across diverse project types.
+
+### 🔹 Alerta’Q  
+AI-powered driver monitoring: embedded sensing, computer vision, and a mobile dashboard (work in progress).
 
 ---
+
+## 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moetez-belaid&show_icons=true&theme=radical" alt="Moctez's GitHub Stats" />
-  <br />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Moetez-belaid" alt="Visitor Badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moetez-belaid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moetez-belaid&theme=tokyonight" alt="Streak Stats" />
 </p>
+
+---
+
+## ✨ More Highlights
+
+- 🎯 **Visitor Count:** Insights into profile visits via visitor-counter badge  
+- 🔁 **Latest Blog Posts / Dev Articles:** Auto-updated using RSS via GitHub Actions  
+- ⚡ **Typing Animation:** Dynamic text animations courtesy of `readme-typing-svg` :contentReference[oaicite:2]{index=2}
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/moctez-belaid"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:belaid.moetez@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?logo=gmail" alt="Email"/></a>
+</p>
+
+---
+
+> Let’s innovate, automate, and build scalable systems together.  
+> Thank you for visiting! 🙏
