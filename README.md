@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Moctez Belaïd</h1>
+<h1 align="center">Hi there 👋, I'm Moetez Belaid</h1>
 <h3 align="center">DevOps Engineer | Embedded Systems Background | Based in Germany 🇩🇪</h3>
 
 ---
